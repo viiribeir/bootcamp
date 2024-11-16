@@ -1,7 +1,3 @@
 import webbrowser
-
-# URL do link que você forneceu
 url = 'https://drive.google.com/drive/folders/1bimoxvxNW_lgoUYqDHLDqTA1xbpA8yaJ?usp=sharing'
-
-# Abre o link no navegador padrão
 webbrowser.open(url)
